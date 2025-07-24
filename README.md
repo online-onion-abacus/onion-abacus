@@ -79,4 +79,6 @@ Remember, always prioritize security when accessing darknet platforms. Use verif
 
 
 
-Update: Style URLs
+
+
+Update: link is functioning

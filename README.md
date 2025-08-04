@@ -81,4 +81,6 @@ Remember, always prioritize security when accessing darknet platforms. Use verif
 
 
 
-Update: link is functioning
+
+
+Update:  04 August url is now reachable online

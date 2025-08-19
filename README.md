@@ -85,4 +85,6 @@ Remember, always prioritize security when accessing darknet platforms. Use verif
 
 
 
-Update:  Wednesday 13 August 2025
+
+
+Update:  19.08.2025 url is now functioning and operational
